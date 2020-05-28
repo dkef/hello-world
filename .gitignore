@@ -1,0 +1,5 @@
+// Binaries
+*.pyc
+
+// Virtual environment
+venv
